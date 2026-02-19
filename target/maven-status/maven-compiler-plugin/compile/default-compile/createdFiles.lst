@@ -1,0 +1,7 @@
+com\impactlink\ImpactLinkApplication.class
+com\impactlink\entity\Project.class
+com\impactlink\repository\ProjectRepository.class
+com\impactlink\controller\ProjectController.class
+com\impactlink\dto\PotentialPartner.class
+com\impactlink\service\DuplicationDetectionService.class
+com\impactlink\service\AiAnalysisService.class
